@@ -1,0 +1,14 @@
+com\lihal\dynamo\model\EmailData.class
+com\lihal\dynamo\service\AWSV4Auth$1.class
+com\lihal\dynamo\service\AWSV4Auth.class
+com\lihal\dynamo\App.class
+com\lihal\dynamo\model\Student.class
+com\lihal\dynamo\service\AWSV4Auth$Builder.class
+com\lihal\dynamo\Dev.class
+com\lihal\dynamo\service\V4Test.class
+com\lihal\dynamo\LambdaHandler.class
+com\lihal\dynamo\service\AmazonSESSample.class
+com\lihal\dynamo\service\SESService.class
+com\lihal\dynamo\dao\StudentDao.class
+com\lihal\dynamo\service\Test.class
+com\lihal\dynamo\util\Constants.class
